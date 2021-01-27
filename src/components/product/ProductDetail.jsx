@@ -2,7 +2,7 @@ import React from 'react'
 import { useParams, Link } from 'react-router-dom'
 import { Card, Container } from 'react-bootstrap'
 import productsInfo from '../../data/productsInfo.json'
-
+import data from "../Data"
 function ProductDetail() {
 
     let { productID } = useParams()
@@ -14,7 +14,7 @@ function ProductDetail() {
                 <div class="card mb-3" >
                     <div class="row g-0">
                         <div class="col-md-4">
-                            <img src={`https://picsum.photos/id/${item.id + 50}/400/400`} alt="..." />
+                            <img className='sliderImg' src={data[`${item.id}`]} alt="..." />
                         </div>
                         <div class="col-md-8 p-5">
                             <div class="card-body">

@@ -2,10 +2,13 @@ import React from 'react'
 import { Link } from "react-router-dom";
 import { Card } from 'react-bootstrap'
 import "../../App.css"
+import data from "../Data"
 function ProductCard(props) {
     return (
+
         <Card className="ms-5 mt-5 rounded-4">
-            <Card.Img variant="top" src={`https://picsum.photos/id/${props.id + 50}/400/240`} />
+
+            <Card.Img className='sliderImg' variant="top" src={data[`${props.id}`]} />
             <Card.Body className="p-3">
                 <Card.Title className="fs-30 ">{props.title}</Card.Title>
                 <Card.Text className="fs-40 text-primary">
