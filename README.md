@@ -10,7 +10,7 @@ Pizza is a website template for a Pizza Store.
 - [x] Product Card component that contains pizza's informations.
 - [x] Search component to search spesific pizza.
 
-*This project is made with React.js 
+*This project is made with React.js* 
 
 ### To Do
 
