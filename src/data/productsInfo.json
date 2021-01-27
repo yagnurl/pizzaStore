@@ -1,0 +1,53 @@
+{
+    "productsInfo": [
+        {
+            "id": 1,
+            "title": "Bacon Chicken Ranch Pizza",
+            "price": "$10.25",
+            "detail": "“Our dough is made freshly daily with enriched flour followed by our thick rick pizza sauces mixed with our own special herbs and spices then topped off with our fresh mozzarella.” ",
+            "isActive": true
+        },
+        {
+            "id": 2,
+            "title": "BBQ CHICKEN Pizza",
+            "detail": "“Our dough is made freshly daily with enriched flour followed by our thick rick pizza sauces mixed with our own special herbs and spices then topped off with our fresh mozzarella.” ",
+            "price": "$13.75",
+            "isActive": true
+        },
+        {
+            "id": 3,
+            "title": "Hawaiian Pizza",
+            "detail": "“Our dough is made freshly daily with enriched flour followed by our thick rick pizza sauces mixed with our own special herbs and spices then topped off with our fresh mozzarella.” ",
+            "price": "$13.25",
+            "isActive": true
+        },
+        {
+            "id": 4,
+            "title": "Vegetarian Pizza",
+            "detail": "“Our dough is made freshly daily with enriched flour followed by our thick rick pizza sauces mixed with our own special herbs and spices then topped off with our fresh mozzarella.” ",
+            "price": "$12.95",
+            "isActive": true
+        },
+        {
+            "id": 5,
+            "title": "Chicken Alfredo Pizza",
+            "detail": "“Our dough is made freshly daily with enriched flour followed by our thick rick pizza sauces mixed with our own special herbs and spices then topped off with our fresh mozzarella.” ",
+            "price": "$22.99",
+            "isActive": true
+        },
+        {
+            "id": 6,
+            "title": "Cheese Pizza",
+            "detail": "“Our dough is made freshly daily with enriched flour followed by our thick rick pizza sauces mixed with our own special herbs and spices then topped off with our fresh mozzarella.” ",
+            "price": "$9.99",
+            "isActive": true
+        },
+        {
+            "id": 7,
+            "title": "The 5lb. Works Pizza",
+            "detail": "“Our dough is made freshly daily with enriched flour followed by our thick rick pizza sauces mixed with our own special herbs and spices then topped off with our fresh mozzarella.” ",
+            "price": "$13.75",
+            "isActive": true
+        }
+    ]
+}
