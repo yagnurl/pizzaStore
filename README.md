@@ -16,5 +16,5 @@ Pizza is a website template for a Pizza Store.
 
 - [ ] 404 Page
 
-[![](https://github.com/yagnurl/nature-project-react/blob/master/nature-preview.png?raw=true)](http://https://github.com/yagnurl/nature-project-react/blob/master/nature-preview.png?raw=true)
+[![](https://github.com/yagnurl/pizzaStore/blob/main/pizza-preview.png?raw=true)](https://github.com/yagnurl/pizzaStore/blob/main/pizza-preview.png?raw=true)
 
