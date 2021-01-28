@@ -36,9 +36,9 @@ function ProductDetail() {
             <div className="d-flex justify-content-center mt-5">
                 <nav aria-label="breadcrumb ">
                     <ol className="breadcrumb fs-30">
-                        <li className="breadcrumb-item "><Link className="text-primary text-decoration-none" to="/">Ana Sayfa</Link></li>
-                        <li className="breadcrumb-item"><Link className="text-primary text-decoration-none" to="/products">Urunler</Link></li>
-                        <li className="breadcrumb-item active" aria-current="page">Detay</li>
+                        <li className="breadcrumb-item "><Link className="text-primary text-decoration-none" to="/">Home</Link></li>
+                        <li className="breadcrumb-item"><Link className="text-primary text-decoration-none" to="/products">All Pizzas</Link></li>
+                        <li className="breadcrumb-item active" aria-current="page">You Chose This One</li>
                     </ol>
                 </nav>
             </div>
